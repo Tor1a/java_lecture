@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;exec08.NorthPanel.java&apos; to &apos;WordGame.java&apos;&#x0D;&#x0A;- Original project: &apos;CHAPTER9&apos;&#x0D;&#x0A;- Original element: &apos;exec08.NorthPanel.java&apos;&#x0D;&#x0A;- Renamed element: &apos;exec08.WordGame.java&apos;" description="Rename compilation unit &apos;NorthPanel.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;exec08{NorthPanel.java" name="WordGame.java" references="false" stamp="1628061064864" version="1.0"/>
+</session>
